@@ -4,6 +4,16 @@
 
 Created by Michelle Angelo-Rocha, Ph.D. · michelleangelorocha@gmail.com
 
+```markdown
+**One-page handouts:** English · Guía de una página en español · Guia de uma página em português
+```
+
+For the links to work, the PDFs need these exact names. So when you export each tab, rename the files:
+
+- **know-your-rights-english.pdf**
+- **conozca-sus-derechos-espanol.pdf**
+- **conheca-seus-direitos-portugues.pdf**
+
 Researchers often invite communities to share their knowledge and experiences. Good research should be a partnership, not something done *to* a community. Your knowledge, time, and stories have value, and you have the right to ask questions, set conditions, and say no.
 
 ```mermaid
