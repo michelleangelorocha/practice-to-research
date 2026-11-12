@@ -60,7 +60,7 @@ flowchart TD
 
 ## How This Guide Was Made
 
-This guide is based on my own experience turning applied program work into research and on a research mapping framework I developed. I used AI (Claude, by Anthropic) as a writing and design assistant to organize and clarify the content. All ideas, structure decisions, and final edits are my own.
+This guide is based on my own experience turning applied program work into research and on a research mapping framework I developed. I used AI (Claude, by Anthropic) as a design assistant to organize and clarify the content. All ideas, structure decisions, and final edits are my own.
 
 ## License
 
