@@ -4,11 +4,8 @@
 
 Created by Michelle Angelo-Rocha, Ph.D. · michelleangelorocha@gmail.com
 
-```markdown
-**One-page handouts:** English · Guía de una página en español · Guia de uma página em português
-```
 
-For the links to work, the PDFs need these exact names. So when you export each tab, rename the files:
+**One-page handouts:** English · Guía de una página en español · Guia de uma página em português
 
 - **know-your-rights-english.pdf**
 - **conozca-sus-derechos-espanol.pdf**
