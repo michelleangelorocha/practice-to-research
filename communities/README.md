@@ -8,6 +8,7 @@ Created by Michelle Angelo-Rocha, Ph.D. · michelleangelorocha@gmail.com
 **One-page handouts:** English · Guía de una página en español · Guia de uma página em português
 
 -**One-page handouts:** [English](know-your-rights-english.pdf.pdf) · [Guía de una página en español](conozca-sus-derechos-espanol.pdf.pdf) · [Guia de uma página em português](conheca-seus-direitos-portugues.pdf.pdf)
+
 Researchers often invite communities to share their knowledge and experiences. Good research should be a partnership, not something done *to* a community. Your knowledge, time, and stories have value, and you have the right to ask questions, set conditions, and say no.
 
 ```mermaid
