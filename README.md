@@ -1,4 +1,4 @@
-# Turning Practice into Research - STUDENT 
+# Turning Practice into Research
 
 **A guide for doctoral students who work on several projects and collect many kinds of data.**
 
