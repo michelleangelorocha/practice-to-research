@@ -4,7 +4,7 @@
 
 Created by Michelle Angelo-Rocha, Ph.D. · michelleangelorocha@gmail.com
 
-Many programs, organizations, and students already collect valuable data: surveys, interviews, program records, and feedback. With the right planning, that work can become peer-reviewed articles, conference presentations, and evidence for future funding. Without it, the same data often stays in an internal report. This toolkit helps two groups plan ahead.
+Many programs, organizations, and students already collect valuable data: surveys, interviews, program records, and feedback. With the right planning, that work can become peer-reviewed articles, conference presentations, and evidence for future funding. Without it, the same data often stays in an internal report. This toolkit helps three groups plan ahead.
 
 ## Choose Your Path
 
@@ -27,6 +27,9 @@ flowchart LR
     class C s3
     class D s4
     class E s5
+
+### [For Communities](communities/)
+A guide for schools, community organizations, and families who are invited to take part in research, or who want to start a project with researchers. One-page handouts in English, Spanish, and Portuguese.
 ```
 
 ### [For Leaders](leaders/)
