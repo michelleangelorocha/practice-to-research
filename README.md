@@ -44,8 +44,7 @@ flowchart LR
 ```
 
 ### [For Communities](communities/)
-A guide for schools, community organizations, and families who are invited to take part in research, or who want to start a project with researchers. One-page handouts in English, Spanish, and Portuguese.
-
+A guide for schools, community organizations, and families who are invited to take part in research, or who want to start a project with researchers. One-page handouts: [English](communities/know-your-rights-english.pdf.pdf) · [Español](communities/conozca-sus-derechos-espanol.pdf.pdf) · [Português](communities/conheca-seus-direitos-portugues.pdf.pdf)
 ```mermaid
 flowchart LR
     C["Communities bring: knowledge, relationships, and questions that matter"] --> P["A fair partnership: plan together, protect participants, share results back"]
