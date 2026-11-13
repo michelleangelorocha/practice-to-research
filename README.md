@@ -27,9 +27,6 @@ flowchart LR
     class C s3
     class D s4
     class E s5
-
-### [For Communities](communities/)
-A guide for schools, community organizations, and families who are invited to take part in research, or who want to start a project with researchers. One-page handouts in English, Spanish, and Portuguese.
 ```
 
 ### [For Leaders](leaders/)
@@ -46,9 +43,24 @@ flowchart LR
     class N no
 ```
 
+### [For Communities](communities/)
+A guide for schools, community organizations, and families who are invited to take part in research, or who want to start a project with researchers. One-page handouts in English, Spanish, and Portuguese.
+
+```mermaid
+flowchart LR
+    C["Communities bring: knowledge, relationships, and questions that matter"] --> P["A fair partnership: plan together, protect participants, share results back"]
+    R["Researchers bring: methods, ethics and IRB, and ways to share findings"] --> P
+    classDef comm fill:#d6f3e8,stroke:#1baf7a,stroke-width:2px,color:#0b0b0b
+    classDef res fill:#dbeafe,stroke:#2a78d6,stroke-width:2px,color:#0b0b0b
+    classDef part fill:#f0efec,stroke:#52514e,stroke-width:2px,color:#0b0b0b
+    class C comm
+    class R res
+    class P part
+```
+
 ## About This Toolkit
 
-This toolkit is based on my experience turning applied program work into research and partnering with leaders and organizations. I used Claude (by Anthropic) as a thinking partner to brainstorm ideas and help design the visuals. All decisions were my own.
+This toolkit is based on my experience turning applied program work into research and partnering with leaders, organizations, and communities. I used Claude (by Anthropic) as a thinking partner to brainstorm ideas and help design the visuals. All decisions were my own.
 
 ## License
 
